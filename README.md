@@ -6,7 +6,9 @@ This application uses the power of Groq and Google Generative AI to perform docu
 You can see a demo of the **Document Q&A RAG App With Gemma And Groq API** in action below:
 1.Click Document Embedding
 <img width="642" alt="Screenshot 2024-12-12 at 4 13 57 PM" src="https://github.com/user-attachments/assets/eb6114d3-38ac-4b03-b9a6-b1c1683dca54" />
+
 2.Ask Questions: Ask questions such as “what is health insurance coverage”
+
 3.AI Response: Get an instant AI response with precise details from the document.
 <img width="641" alt="Screenshot 2024-12-12 at 4 15 15 PM" src="https://github.com/user-attachments/assets/149ab477-3a56-4cc6-bbdc-2bbbdeedcd07" />
 
