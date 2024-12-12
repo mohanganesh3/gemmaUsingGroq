@@ -2,7 +2,10 @@
 
 This application uses the power of Groq and Google Generative AI to perform document-based question answering. Users can input a question, and the system will retrieve the most relevant information from a set of PDF documents and generate a response based on the provided context.
 
-## Features:
+## 🎬 Demo
+You can see a demo of the **Document Q&A RAG App With Gemma And Groq API** in action below:
+
+## 🌟 Features:
 	•	Upload and load PDF documents into the system.
 	•	Vector embedding to transform documents into searchable data.
 	•	Use of the Groq model for question answering based on document content.
